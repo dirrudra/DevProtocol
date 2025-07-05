@@ -1,0 +1,80 @@
+## Azure DevOps & Cloud Learning Guide (2 Months)
+
+This guide is designed to help you become a DevOps specialist with a focus on Azure and Linux in just 2 months. It includes a structured learning path, course requirements, recommendations, and helpful skills to acquire along the way.
+
+---
+
+### **Course Requirements**
+- **Laptop/PC** (4GB+ RAM, internet access)
+- **Azure Free Account** ([Sign up here](https://azure.microsoft.com/free/))
+- **GitHub Account** ([Sign up here](https://github.com/))
+- **Basic Programming Knowledge** (Python, Bash, or PowerShell recommended)
+- **Willingness to Learn & Practice**
+
+---
+
+### **Learning Roadmap (8 Weeks)**
+
+#### **Weeks 1-2: Linux Fundamentals**
+- Linux installation (VM, WSL, or cloud VM)
+- Basic commands, file system, permissions
+- Shell scripting basics
+- Recommended: [Linux Journey](https://linuxjourney.com/), [The Linux Command Line](https://linuxcommand.org/)
+
+#### **Weeks 3-4: Azure Cloud Basics**
+- Azure portal overview
+- Core Azure services (VMs, Storage, Networking)
+- Resource groups, ARM templates
+- Recommended: [Microsoft Learn: Azure Fundamentals](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals/)
+
+#### **Weeks 5-6: DevOps Concepts & Tools**
+- What is DevOps? CI/CD basics
+- Source control with Git & GitHub
+- Azure DevOps: Boards, Repos, Pipelines
+- Recommended: [Azure DevOps Labs](https://azuredevopslabs.com/), [Microsoft Learn: DevOps](https://learn.microsoft.com/en-us/training/paths/devops-fundamentals/)
+
+#### **Weeks 7-8: Automation & Advanced Topics**
+- Infrastructure as Code (IaC): ARM, Bicep, Terraform
+- Containerization: Docker basics
+- Monitoring & Security basics
+- Practice: Build a CI/CD pipeline for a sample app
+- Recommended: [Terraform on Azure](https://learn.microsoft.com/en-us/azure/developer/terraform/), [Docker Getting Started](https://docs.docker.com/get-started/)
+
+---
+
+### **Helpful Skills to Develop**
+- Problem-solving & troubleshooting
+- Scripting (Bash, PowerShell, Python)
+- Understanding of networking basics
+- Familiarity with version control (Git)
+- Basic knowledge of containers (Docker)
+- Cloud cost management
+
+---
+
+
+### **Azure Certification Courses Required**
+
+- **AZ-900: Microsoft Azure Fundamentals**
+  - [Microsoft Learn Path](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals/)
+  - Covers: Cloud concepts, Azure services, security, privacy, compliance, and pricing
+
+- **AZ-104: Microsoft Azure Administrator**
+  - [Microsoft Learn Path](https://learn.microsoft.com/en-us/training/paths/azure-administrator/)
+  - Covers: Managing Azure subscriptions, resources, storage, virtual machines, networking, and identities
+
+- **AZ-400: Designing and Implementing Microsoft DevOps Solutions**
+  - [Microsoft Learn Path](https://learn.microsoft.com/en-us/training/paths/azure-devops/)
+  - Covers: DevOps practices, CI/CD, source control, security, compliance, infrastructure as code, and monitoring
+
+---
+
+### **Additional Recommendations**
+- Join online communities (Reddit, Stack Overflow, Azure forums)
+- Follow Azure & DevOps blogs and YouTube channels
+- Work on small projects and document your progress
+- Consider certification: [AZ-900](https://learn.microsoft.com/en-us/certifications/exams/az-900/), [AZ-104](https://learn.microsoft.com/en-us/certifications/exams/az-104/), [AZ-400](https://learn.microsoft.com/en-us/certifications/exams/az-400/)
+
+---
+
+**Stay consistent, practice daily, and you'll be well on your way to becoming an Azure DevOps specialist!**
